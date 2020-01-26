@@ -28,7 +28,7 @@ function ready() {
 }
 
 function purchaseClicked() {
-    alert('Vielen Dank für Ihren EInkauf')
+    alert('Vielen Dank für Ihren Einkauf')
     var cartItems = document.getElementsByClassName('cart-items')[0]
     while (cartItems.hasChildNodes()) {
         cartItems.removeChild(cartItems.firstChild)
