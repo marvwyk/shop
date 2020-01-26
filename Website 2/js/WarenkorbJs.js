@@ -27,6 +27,15 @@ function ready() {
     document.getElementsByClassName('btn-purchase')[0].addEventListener('click', purchaseClicked);
 }
 
+function purchaseClicked() {
+    alert('Vielen Dank für Ihren EInkauf')
+    var cartItems = document.getElementsByClassName('cart-items')[0]
+    while (cartItems.hasChildNodes()) {
+        cartItems.removeChild(cartItems.firstChild)
+    }
+    updateCartTotal()
+}
+
 function removeCartItem(event) {
     var buttonClicked = event.target
     buttonClicked.parentElement.parentElement.remove()
