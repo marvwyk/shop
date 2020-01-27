@@ -520,9 +520,10 @@ function ueber_uns() {
           margin: 10px 30px;
         }
         </style>   
-   </head> 
+  
+</head> 
    
-   <p class="ex1" " style="font-size:20px"> <i>  "Das Leben ist zu kurz, um langweilige Socken zu tragen"  </i> </p>
+   <a class="ex1" " style="font-size:20px"> <i>  "Das Leben ist zu kurz, um langweilige Socken zu tragen"  </i> </a>
 
     <p align="justify" class="ex1" " style="font-size:20px"> "Socks in the box" ist eine Marke von nicht langweiligen Socken für jeden Tag.<br />
     Die Marke wurde in Magdeburg geboren, ist aber längst darüber hinausgegangen und <br />
