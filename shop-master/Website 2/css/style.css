@@ -34,7 +34,6 @@ a {
   display: block;
   width: 240px;
   height: 150px;
-  background: powderblue ;
   float: left;
 }
 
@@ -97,7 +96,7 @@ a {
 }
 
 .shop-item-image:hover {
-	transform: scale(1.5);
+	transform: scale(1.8);
 	}
 
 .gesamt {
