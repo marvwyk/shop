@@ -147,7 +147,7 @@ function Maenner() {
                 <section class="content-section Bilder">
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
-                            <img class="shop-item-image" height="140" src="img/MK1.png">
+                            <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
                             <figcaption class="shop-item-title">Männer Socken</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">4.99€</span>
@@ -157,7 +157,7 @@ function Maenner() {
                     </div>
 					                    <div class="shop-items Bilder">
                         <div class="shop-item ">
-                            <img class="shop-item-image" height="140" src="img/MK2.png">
+                            <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
                             <figcaption class="shop-item-title">Produkt 1</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">4.99€</span>
@@ -167,7 +167,7 @@ function Maenner() {
                     </div>
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
-                            <img class="shop-item-image" height="140" src="img/MK3.png">
+                            <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
                             <figcaption class="shop-item-title">Produkt 2</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">6.99€</span>
@@ -177,7 +177,7 @@ function Maenner() {
                     </div>
                     <div class="shop-items Bilder">
                     <div class="shop-item ">
-                        <img class="shop-item-image" height="140" src="img/MK6.png">
+                        <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
                         <figcaption class="shop-item-title">Produkt 1</figcaption>
                         <div class="shop-item-details">
                             <span class="shop-item-price">4.99€</span>
@@ -190,7 +190,7 @@ function Maenner() {
                   <section class="content-section Bilder">
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
-                            <img class="shop-item-image" height="140" src="img/MK5.png">
+                            <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
                             <figcaption class="shop-item-title">Produkt 3</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">3.99€</span>
@@ -201,7 +201,7 @@ function Maenner() {
                      
                      <div class="shop-items Bilder">
                         <div class="shop-item ">
-                            <img class="shop-item-image" height="140" src="img/MK8.png">
+                            <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
                             <figcaption class="shop-item-title">Produkt 2</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">6.99€</span>
@@ -212,7 +212,7 @@ function Maenner() {
 
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
-                            <img class="shop-item-image" height="140" src="img/MK11.jpg">
+                            <img class="shop-item-image" height="140" src="img/Graue Socken1.jpg">
                             <figcaption class="shop-item-title">Produkt 2</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">6.99€</span>
@@ -222,7 +222,7 @@ function Maenner() {
                     </div>
                     <div class="shop-items Bilder">
                     <div class="shop-item ">
-                        <img class="shop-item-image" height="140" src="img/MK7.png">
+                        <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
                         <figcaption class="shop-item-title">Produkt 1</figcaption>
                         <div class="shop-item-details">
                             <span class="shop-item-price">4.99€</span>
