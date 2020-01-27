@@ -27,6 +27,15 @@ function ready() {
     document.getElementsByClassName('btn-purchase')[0].addEventListener('click', purchaseClicked);
 }
 
+function purchaseClicked() {
+    alert('Vielen Dank für Ihren Einkauf!')
+    var cartItems = document.getElementsByClassName('cart-items')[0]
+    while (cartItems.hasChildNodes()) {
+        cartItems.removeChild(cartItems.firstChild)
+    }
+    updateCartTotal()
+}
+
 function removeCartItem(event) {
     var buttonClicked = event.target
     buttonClicked.parentElement.parentElement.remove()
@@ -70,7 +79,7 @@ function addItemToCart(title, price, imageSrc) {
         <span class="cart-price cart-column">${price}</span>
         <div class="cart-quantity cart-column">
             <input class="cart-quantity-input" type="number" value="1">
-            <button class="btn btn-danger" type="button">REMOVE</button>
+            <button class="btn btn-danger" type="button">Entfernen</button>
         </div>`
     cartRow.innerHTML = cartRowContents
     cartItems.append(cartRow)
