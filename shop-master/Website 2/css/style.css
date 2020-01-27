@@ -96,6 +96,10 @@ a {
     justify-content: center;
 }
 
+.shop-item-image:hover {
+	transform: scale(1.5);
+	}
+
 .gesamt {
   text-transform: uppercase;
   font-weight: bold;
