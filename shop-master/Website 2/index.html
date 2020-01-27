@@ -1,0 +1,221 @@
+<!doctype html>
+<html>
+
+<head>
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
+
+    <meta charset="utf-8">
+    <title>Kursseite - Startseite</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/WarenkorbJs.js" async></script>
+	 <script src="js/Seitenwechsel.js" async></script>
+</head>
+
+<body>
+    <!-- Header Anfang -->
+    <div class="main-header-Hintergrund">
+        <script type="text/javascript" src="js/snowflakes.js"></script>
+        <header class="main-header clearfix">
+            <a class="logo" href="javascript:Startseite()">
+                <img src="img/layout/logo.png" height="180" alt="sTrümpfe Logo">
+            </a>
+            <nav>
+                <ul>
+                    <li><a href="javascript:Maenner()" onclick="ready()">Männer</a> </li>
+                    <li><a href="javascript:Frauen()">Frauen</a></li>
+                    <li><a href="javascript:Kinder()">Kinder</a></li>
+					<li><a href="javascript:warenkorb()">Warenkorb</a></li>
+                    <li><a href="javascript:ueber_uns()">Über Uns</a></li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+    <!-- Header Ende -->
+    <!-- Angebote -->
+    <div class="Angebote" id="Inhalt">
+        <section class="Angebotsliste">
+            <h1>Neue Winterkollektion 2020 <span>Jetzt schnell zugreifen!!!</span></h1>
+            <section>
+                <section class="content-section Bilder">
+                    <div class="shop-items Bilder">
+                        <div class="shop-item ">
+                            <img class="shop-item-image" height="140" src="img/sockengif1.gif">
+                            <figcaption class="shop-item-title">Wintersocken</figcaption>
+                            <div class="shop-item-details">
+                                <span class="shop-item-price">4.99€</span>
+                                <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
+                            </div>
+                        </div>
+                    </div>
+					                    <div class="shop-items Bilder">
+                        <div class="shop-item ">
+                            <img class="shop-item-image" height="140" src="img/Produkt1.webp">
+                            <figcaption class="shop-item-title">Produkt 1</figcaption>
+                            <div class="shop-item-details">
+                                <span class="shop-item-price">4.99€</span>
+                                <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="shop-items Bilder">
+                        <div class="shop-item ">
+                            <img class="shop-item-image" height="140" src="img/Produkt1.webp">
+                            <figcaption class="shop-item-title">Produkt 2</figcaption>
+                            <div class="shop-item-details">
+                                <span class="shop-item-price">6.99€</span>
+                                <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="shop-items Bilder">
+                        <div class="shop-item ">
+                            <img class="shop-item-image" height="140" src="img/Produkt2.webp">
+                            <figcaption class="shop-item-title">Produkt 3</figcaption>
+                            <div class="shop-item-details">
+                                <span class="shop-item-price">3.99€</span>
+                                <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
+                            </div>
+                        </div>
+                    </div>
+                    <figcaption class="gesamt">Für Ihn</figcaption>
+                </section>
+                <div>
+                    <section class="content-section Bilder">
+					<div class="shop-items Bilder">
+                        <div class="shop-item ">
+                            <img class="shop-item-image" height="140" src="img/Produkt2.webp">
+                            <figcaption class="shop-item-title">Produkt 3</figcaption>
+                            <div class="shop-item-details">
+                                <span class="shop-item-price">3.99€</span>
+                                <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
+                            </div>
+                        </div>
+                    </div>
+                        <div class="shop-items Bilder">
+                            <div class="shop-item ">
+                                <img class="shop-item-image" height="140" src="img/Produkt1.webp">
+                                <figcaption class="shop-item-title">Produkt 4</figcaption>
+                                <div class="shop-item-details">
+                                    <span class="shop-item-price">1.99€</span>
+                                    <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="shop-items Bilder">
+                            <div class="shop-item">
+                                <img class="shop-item-image" height="140" src="img/Produkt2.webp">
+                                <figcaption class="shop-item-title">Produkt 5</figcaption>
+                                <div class="shop-item-details">
+                                    <span class="shop-item-price">1.20€</span>
+                                    <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="shop-items Bilder">
+                            <div class="shop-item ">
+                                <img class="shop-item-image" height="140" src="img/Produkt1.webp">
+                                <figcaption class="shop-item-title">Produkt 6</figcaption>
+                                <div class="shop-item-details">
+                                    <span class="shop-item-price">0.99€</span>
+                                    <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
+                                </div>
+                            </div>
+                        </div>
+                        <figcaption class="gesamt">Für Sie</figcaption>
+                    </section>
+                    <div>
+                        <section class="content-section Bilder">
+						<div class="shop-items Bilder">
+                        <div class="shop-item ">
+                            <img class="shop-item-image" height="140" src="img/Produkt2.webp">
+                            <figcaption class="shop-item-title">Produkt 3</figcaption>
+                            <div class="shop-item-details">
+                                <span class="shop-item-price">3.99€</span>
+                                <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
+                            </div>
+                        </div>
+                    </div>
+                            <div class="shop-items Bilder">
+                                <div class="shop-item ">
+                                    <img class="shop-item-image" height="140" src="img/Produkt1.webp">
+                                    <figcaption class="shop-item-title">Produkt 7</figcaption>
+                                    <div class="shop-item-details">
+                                        <span class="shop-item-price">1.99€</span>
+                                        <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="shop-items Bilder">
+                                <div class="shop-item ">
+                                    <img class="shop-item-image" height="140" src="img/Produkt2.webp">
+                                    <figcaption class="shop-item-title">Produkt 8</figcaption>
+                                    <div class="shop-item-details">
+                                        <span class="shop-item-price">4.99€</span>
+                                        <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="shop-items Bilder">
+                                <div class="shop-item ">
+                                    <img class="shop-item-image" height="140" src="img/Produkt1.webp">
+                                    <figcaption class="shop-item-title">Produkt 9</figcaption>
+                                    <div class="shop-item-details">
+                                        <span class="shop-item-price">2.99€</span>
+                                        <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <figcaption class="gesamt">Für Kinder</figcaption>
+                        </section>
+                    </div>
+                </div>
+            </section>
+        </section>
+    </div>
+    <!-- Angebote Ende -->
+    <!-- Alles für die Modal Box -->
+    <div id="modal-wrapper" class="modal">
+        <form class="modal-content animate">
+            <div>
+                <h1 style="text-align:center"> Warenkorb </h1>
+            </div>
+            <div>
+                <section class="content-section">
+                    <div class="cart-row">
+                        <span class="cart-item cart-header cart-column">Gegenstand</span>
+                        <span class="cart-price cart-header cart-column">Preis</span>
+                        <span class="cart-quantity cart-header cart-column">Anzahl</span>
+                    </div>
+                    <div class="cart-items">
+                    </div>
+                    <div class="cart-total">
+                        <strong class="cart-total-title">Total:</strong>
+                        <span class="cart-total-price"> 0€</span>
+                    </div>
+                </section>
+            </div>
+        </form>
+    </div>
+    <script>
+        // If user clicks anywhere outside of the modal, Modal will close
+
+        var modal = document.getElementById('modal-wrapper');
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+    </script>
+    <!-- Alles für die Modal Box Ende -->
+    <!-- Disclaimer -->
+    <footer class="main-footer">
+        <div class="disclaimer">
+            <section class="disclaimer-text">
+                <p>&copy; Webshop von Maria,Jan-Luca,Jakob,Abdallah,Mustafa,Marvin | Fotos geklaut von Random Websites | <a href="javascript:impressum()">Impressum</a></p>
+            </section>
+        </div>
+    </footer>
+    <!-- Disclaimer Ende -->
+</body>
+</html>
