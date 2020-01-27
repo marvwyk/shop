@@ -513,7 +513,7 @@ function Kinder() {
 	ready()
 }
 function ueber_uns() {
-    var Inhalt =`<h1> <p class="ex1" "style="font-size:30px"> Über uns </p> </h >
+    var Inhalt =`<section class="Angebotsliste"><h1> <p class="ex1" "style="font-size:30px"> Über uns </p> </h >
     <head>
     <style>
         p.ex1 {
@@ -539,7 +539,7 @@ function ueber_uns() {
     und für jeden Anlass. Jeder kann sich etwas nach seinem Geschmack aussuchen!  </p>
     
     <p align="justify" class="ex1" " style="font-size:20px" >  Alle Socken werden in Deutschland hergestellt. Die Marke unterstützt die heimische Produktion <br />
-    und stimuliert die Entstehung neuer Arbeitsplätze in unserem Land. </p>`
+    und stimuliert die Entstehung neuer Arbeitsplätze in unserem Land. </p></section>`
 	document.getElementById('Inhalt').innerHTML = Inhalt
 	ready()
 }
@@ -550,7 +550,7 @@ function warenkorb() {
 	ready()
 }
 function impressum() {
-    var Inhalt = ` <h1> <p class="ex1"> Impressum </p> </h >
+    var Inhalt = `<section class="Angebotsliste"> <h1> <p class="ex1"> Impressum </p> </h >
     <head>
     <style>
         p.ex1 {
@@ -582,7 +582,7 @@ function impressum() {
     <h2> <p class="ex1"> EU-Streitschlichtung </p></h2>
     <p class="ex1">Die Europ&auml;ische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href="https://ec.europa.eu/consumers/odr" target="_blank" rel="noopener noreferrer">https://ec.europa.eu/consumers/odr</a>.<br /> Unsere E-Mail-Adresse finden Sie oben im Impressum.</p>
     
-    <h2> <p class="ex1"> Verbraucherstreitbeilegung/Universalschlichtungsstelle </p></h2><p class="ex1">Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>`
+    <h2> <p class="ex1"> Verbraucherstreitbeilegung/Universalschlichtungsstelle </p></h2><p class="ex1">Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p></section>`
 	document.getElementById('Inhalt').innerHTML = Inhalt
 	ready()
 }
