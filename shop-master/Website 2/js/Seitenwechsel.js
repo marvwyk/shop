@@ -212,7 +212,7 @@ function Maenner() {
 
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
-                            <img class="shop-item-image" height="140" src="img/Graue Socken1.jpg">
+                            <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
                             <figcaption class="shop-item-title">Produkt 2</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">6.99€</span>
