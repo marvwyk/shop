@@ -338,7 +338,7 @@ function Frauen() {
                             <div class="shop-items Bilder">
                                 <div class="shop-item ">
                                     <img class="shop-item-image" height="140" src="img/FK10.png">
-                                    <figcaption class="shop-item-title">Socke Hasa</figcaption>
+                                    <figcaption class="shop-item-title">Socke Hase</figcaption>
                                     <div class="shop-item-details">
                                         <span class="shop-item-price">1.99€</span>
                                         <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
