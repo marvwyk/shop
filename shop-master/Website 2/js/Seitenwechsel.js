@@ -6,7 +6,7 @@ function Startseite() {
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/WMK2.png">
-                            <figcaption class="shop-item-title">Wintersocken</figcaption>
+                            <figcaption class="shop-item-title">Wintersocke</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">4.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -148,7 +148,7 @@ function Maenner() {
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
-                            <figcaption class="shop-item-title">Männer Socken</figcaption>
+                            <figcaption class="shop-item-title">Männersocke</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">4.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -158,7 +158,7 @@ function Maenner() {
 					                    <div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
-                            <figcaption class="shop-item-title">Produkt 1</figcaption>
+                            <figcaption class="shop-item-title">Socke grau 1</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">4.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -168,7 +168,7 @@ function Maenner() {
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
-                            <figcaption class="shop-item-title">Produkt 2</figcaption>
+                            <figcaption class="shop-item-title">Socke grau 2</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">6.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -178,7 +178,7 @@ function Maenner() {
                     <div class="shop-items Bilder">
                     <div class="shop-item ">
                         <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
-                        <figcaption class="shop-item-title">Produkt 1</figcaption>
+                        <figcaption class="shop-item-title">Socke grau 3</figcaption>
                         <div class="shop-item-details">
                             <span class="shop-item-price">4.99€</span>
                             <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -191,7 +191,7 @@ function Maenner() {
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
-                            <figcaption class="shop-item-title">Produkt 3</figcaption>
+                            <figcaption class="shop-item-title">Socke grau 4</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">3.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -202,7 +202,7 @@ function Maenner() {
                      <div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
-                            <figcaption class="shop-item-title">Produkt 2</figcaption>
+                            <figcaption class="shop-item-title">Socke grau 5</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">6.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -213,7 +213,7 @@ function Maenner() {
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
-                            <figcaption class="shop-item-title">Produkt 2</figcaption>
+                            <figcaption class="shop-item-title">Socke grau 6</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">6.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -223,7 +223,7 @@ function Maenner() {
                     <div class="shop-items Bilder">
                     <div class="shop-item ">
                         <img class="shop-item-image" height="140" src="img/Graue Socken1.png">
-                        <figcaption class="shop-item-title">Produkt 1</figcaption>
+                        <figcaption class="shop-item-title">Socke grau 7</figcaption>
                         <div class="shop-item-details">
                             <span class="shop-item-price">4.99€</span>
                             <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -242,7 +242,7 @@ function Frauen() {
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/FK1.png">
-                            <figcaption class="shop-item-title">Frauen Socken</figcaption>
+                            <figcaption class="shop-item-title">Socke Burger</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">4.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -252,7 +252,7 @@ function Frauen() {
 					                    <div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/FK2.png">
-                            <figcaption class="shop-item-title">Produkt 1</figcaption>
+                            <figcaption class="shop-item-title">Socke Boot</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">4.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -262,7 +262,7 @@ function Frauen() {
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/FK3.png">
-                            <figcaption class="shop-item-title">Produkt 2</figcaption>
+                            <figcaption class="shop-item-title">Socke Blume</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">6.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -272,7 +272,7 @@ function Frauen() {
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/FK4.png">
-                            <figcaption class="shop-item-title">Produkt 3</figcaption>
+                            <figcaption class="shop-item-title">Socke Blume 1</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">3.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -285,7 +285,7 @@ function Frauen() {
 					<div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/FK5.png">
-                            <figcaption class="shop-item-title">Produkt 3</figcaption>
+                            <figcaption class="shop-item-title">Socke Blume 2</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">3.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -295,7 +295,7 @@ function Frauen() {
                         <div class="shop-items Bilder">
                             <div class="shop-item ">
                                 <img class="shop-item-image" height="140" src="img/FK6.png">
-                                <figcaption class="shop-item-title">Produkt 4</figcaption>
+                                <figcaption class="shop-item-title">Socke Blume 3</figcaption>
                                 <div class="shop-item-details">
                                     <span class="shop-item-price">1.99€</span>
                                     <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -305,7 +305,7 @@ function Frauen() {
                         <div class="shop-items Bilder">
                             <div class="shop-item">
                                 <img class="shop-item-image" height="140" src="img/FK7.png">
-                                <figcaption class="shop-item-title">Produkt 5</figcaption>
+                                <figcaption class="shop-item-title">Socke Tiger</figcaption>
                                 <div class="shop-item-details">
                                     <span class="shop-item-price">1.20€</span>
                                     <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -315,7 +315,7 @@ function Frauen() {
                         <div class="shop-items Bilder">
                             <div class="shop-item ">
                                 <img class="shop-item-image" height="140" src="img/FK8.png">
-                                <figcaption class="shop-item-title">Produkt 6</figcaption>
+                                <figcaption class="shop-item-title">Socke Cocktail</figcaption>
                                 <div class="shop-item-details">
                                     <span class="shop-item-price">0.99€</span>
                                     <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -328,7 +328,7 @@ function Frauen() {
 						<div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/FK9.png">
-                            <figcaption class="shop-item-title">Produkt 3</figcaption>
+                            <figcaption class="shop-item-title">Socke Herz</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">3.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -338,7 +338,7 @@ function Frauen() {
                             <div class="shop-items Bilder">
                                 <div class="shop-item ">
                                     <img class="shop-item-image" height="140" src="img/FK10.png">
-                                    <figcaption class="shop-item-title">Produkt 7</figcaption>
+                                    <figcaption class="shop-item-title">Socke Hasa</figcaption>
                                     <div class="shop-item-details">
                                         <span class="shop-item-price">1.99€</span>
                                         <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -348,7 +348,7 @@ function Frauen() {
                             <div class="shop-items Bilder">
                                 <div class="shop-item ">
                                     <img class="shop-item-image" height="140" src="img/FK11.png">
-                                    <figcaption class="shop-item-title">Produkt 8</figcaption>
+                                    <figcaption class="shop-item-title">Socke Avocado</figcaption>
                                     <div class="shop-item-details">
                                         <span class="shop-item-price">4.99€</span>
                                         <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -358,7 +358,7 @@ function Frauen() {
                             <div class="shop-items Bilder">
                                 <div class="shop-item ">
                                     <img class="shop-item-image" height="140" src="img/FK12.png">
-                                    <figcaption class="shop-item-title">Produkt 9</figcaption>
+                                    <figcaption class="shop-item-title">Socke Kaktus</figcaption>
                                     <div class="shop-item-details">
                                         <span class="shop-item-price">2.99€</span>
                                         <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
