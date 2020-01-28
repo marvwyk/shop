@@ -391,7 +391,7 @@ function Kinder() {
 					                    <div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/KK13.png">
-                            <figcaption class="shop-item-title">Produkt 1</figcaption>
+                            <figcaption class="shop-item-title">Socke Zitrone</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">4.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -401,7 +401,7 @@ function Kinder() {
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/KK3.png">
-                            <figcaption class="shop-item-title">Produkt 2</figcaption>
+                            <figcaption class="shop-item-title">Socke Hund</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">6.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -411,7 +411,7 @@ function Kinder() {
                     <div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/KK4.png">
-                            <figcaption class="shop-item-title">Produkt 3</figcaption>
+                            <figcaption class="shop-item-title">Socke Socke Hund 2</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">3.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -424,7 +424,7 @@ function Kinder() {
 					<div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/KK5.png">
-                            <figcaption class="shop-item-title">Produkt 3</figcaption>
+                            <figcaption class="shop-item-title">Socke Eisbär</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">3.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -434,7 +434,7 @@ function Kinder() {
                         <div class="shop-items Bilder">
                             <div class="shop-item ">
                                 <img class="shop-item-image" height="140" src="img/KK6.png">
-                                <figcaption class="shop-item-title">Produkt 4</figcaption>
+                                <figcaption class="shop-item-title">Socke Zebra</figcaption>
                                 <div class="shop-item-details">
                                     <span class="shop-item-price">1.99€</span>
                                     <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -444,7 +444,7 @@ function Kinder() {
                         <div class="shop-items Bilder">
                             <div class="shop-item">
                                 <img class="shop-item-image" height="140" src="img/KK7.png">
-                                <figcaption class="shop-item-title">Produkt 5</figcaption>
+                                <figcaption class="shop-item-title">Socke Biene</figcaption>
                                 <div class="shop-item-details">
                                     <span class="shop-item-price">1.20€</span>
                                     <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -454,7 +454,7 @@ function Kinder() {
                         <div class="shop-items Bilder">
                             <div class="shop-item ">
                                 <img class="shop-item-image" height="140" src="img/KK8.png">
-                                <figcaption class="shop-item-title">Produkt 6</figcaption>
+                                <figcaption class="shop-item-title">Socke Lama</figcaption>
                                 <div class="shop-item-details">
                                     <span class="shop-item-price">0.99€</span>
                                     <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -467,7 +467,7 @@ function Kinder() {
 						<div class="shop-items Bilder">
                         <div class="shop-item ">
                             <img class="shop-item-image" height="140" src="img/KK9.png">
-                            <figcaption class="shop-item-title">Produkt 3</figcaption>
+                            <figcaption class="shop-item-title">Socke Banane</figcaption>
                             <div class="shop-item-details">
                                 <span class="shop-item-price">3.99€</span>
                                 <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -477,7 +477,7 @@ function Kinder() {
                             <div class="shop-items Bilder">
                                 <div class="shop-item ">
                                     <img class="shop-item-image" height="140" src="img/KK10.png">
-                                    <figcaption class="shop-item-title">Produkt 7</figcaption>
+                                    <figcaption class="shop-item-title">Socke Katze</figcaption>
                                     <div class="shop-item-details">
                                         <span class="shop-item-price">1.99€</span>
                                         <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -487,7 +487,7 @@ function Kinder() {
                             <div class="shop-items Bilder">
                                 <div class="shop-item ">
                                     <img class="shop-item-image" height="140" src="img/KK11.png">
-                                    <figcaption class="shop-item-title">Produkt 8</figcaption>
+                                    <figcaption class="shop-item-title">Socke Stift</figcaption>
                                     <div class="shop-item-details">
                                         <span class="shop-item-price">4.99€</span>
                                         <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
@@ -497,7 +497,7 @@ function Kinder() {
                             <div class="shop-items Bilder">
                                 <div class="shop-item ">
                                     <img class="shop-item-image" height="140" src="img/KK12.png">
-                                    <figcaption class="shop-item-title">Produkt 9</figcaption>
+                                    <figcaption class="shop-item-title">Socke Melone</figcaption>
                                     <div class="shop-item-details">
                                         <span class="shop-item-price">2.99€</span>
                                         <button class="button btn-orange shop-item-button" height="140" onclick="document.getElementById('modal-wrapper').style.display='block'" type="button">In Warenkorb</button>
